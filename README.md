@@ -1,6 +1,6 @@
 # Self-Host Sync Setup Changes
 
-This document summarizes all changes made to enable self-hosted Logseq sync with custom AWS Cognito credentials.
+This document summarizes all changes made to enable self-hosted [Logseq](https://github.com/logseq/logseq) sync with custom AWS Cognito credentials.
 
 ## Files Modified
 
